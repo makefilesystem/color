@@ -4,11 +4,11 @@
 
 Сборка. Для начала клонируйте репозиторий:
 
-    ```bash
-    git clone https://github.com/makefilesystem/color.git
-    cd color
-    sudo make install
-    ```
+```bash
+git clone https://github.com/makefilesystem/color.git
+cd color
+sudo make install
+```
 
 ## Использование
 
